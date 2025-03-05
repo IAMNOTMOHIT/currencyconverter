@@ -14,9 +14,9 @@ The **Real-Time Currency Converter** is a web-based tool that provides quick and
 
 ---
 
- Technologies Used
+ **Technologies Used**
 
-### **Frontend:**
+ **Frontend:**
 - **HTML5** – Provides structure and content.
 - **CSS3** – Enhances UI with styling.
 - **JavaScript (ES6)** – Handles user interaction & API communication.
