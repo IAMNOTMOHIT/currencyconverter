@@ -1,20 +1,20 @@
-# 💰 Real-Time Currency Converter
+#  Real-Time Currency Converter
 
 The **Real-Time Currency Converter** is a web-based tool that provides quick and accurate currency conversions using **live exchange rates** from a free API. It is built for **speed, efficiency, and ease of use**, making it a practical solution for financial and business-related calculations.
 
 ---
 
-## 🚀 Features
+##  Features
 
-✔️ Fetches **real-time exchange rates** from a free API.  
-✔️ Simple and **lightweight UI** for quick conversions.  
-✔️ **Java-based backend** for secure API communication.  
-✔️ **Responsive design** for both desktop & mobile.  
-✔️ **Optimized API usage** to stay within free-tier limits.  
+. Fetches **real-time exchange rates** from a free API.  
+. Simple and **lightweight UI** for quick conversions.  
+. *Java-based backend** for secure API communication.  
+. **Responsive design** for both desktop & mobile.  
+. **Optimized API usage** to stay within free-tier limits.  
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 ### **Frontend:**
 - **HTML5** – Provides structure and content.
