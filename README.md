@@ -14,9 +14,9 @@ The **Real-Time Currency Converter** is a web-based tool that provides quick and
 
 ---
 
- **Technologies Used**
+## **Technologies Used**
 
- **Frontend:**
+ ##**Frontend:**
 - **HTML5** – Provides structure and content.
 - **CSS3** – Enhances UI with styling.
 - **JavaScript (ES6)** – Handles user interaction & API communication.
@@ -33,18 +33,18 @@ The **Real-Time Currency Converter** is a web-based tool that provides quick and
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
-1️⃣ User selects the **currencies** and enters the **amount** on the frontend.  
-2️⃣ A request is sent to the backend (**Java Servlets**).  
-3️⃣ The backend fetches **real-time exchange rates** from the API.  
-4️⃣ The **converted amount** is sent back to the frontend and displayed **instantly**.  
+1 User selects the **currencies** and enters the **amount** on the frontend.  
+2️ A request is sent to the backend (**Java Servlets**).  
+3️ The backend fetches **real-time exchange rates** from the API.  
+4️ The **converted amount** is sent back to the frontend and displayed **instantly**.  
 
 ---
 
-## 📥 Installation & Setup
+##  Installation & Setup
 
-### **🔹 Prerequisites**
+### ** Prerequisites**
 Ensure you have the following installed:
 
 - **Java Development Kit (JDK) 11+**
@@ -53,9 +53,9 @@ Ensure you have the following installed:
 
 ---
 
-### **🔹 Steps to Run Locally**
+### ** Steps to Run Locally**
 
-1️⃣ **Clone the repository:**
+1️ **Clone the repository:**
 ```sh
 git clone https://github.com/yourusername/realtime-currency-converter.git
 cd realtime-currency-converter
